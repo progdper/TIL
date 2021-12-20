@@ -53,4 +53,4 @@ __볼드체2__
 [깃헙 블로그](https://jeon1787.github.io "링크 설명")
 
 ### 5.이미지(Images)
-![이미지](https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg)
+![이미지](https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg){: width="100px" height="100px"}
