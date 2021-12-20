@@ -46,8 +46,11 @@ __볼드체2__
 ### 4.링크(Links)
 깃헙 블로그 https://jeon1787.github.io
 
+깃헙 블로그 <https://jeon1787.github.io>
+
 [깃헙 블로그](https://jeon1787.github.io)
 
 [깃헙 블로그](https://jeon1787.github.io "링크 설명")
 
-[상대적 참조](../gitub.io)
+### 5.이미지(Images)
+![이미지](/jeon1787.github.io/assets/images/)
