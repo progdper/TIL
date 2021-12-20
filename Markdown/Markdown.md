@@ -54,7 +54,7 @@ __볼드체2__
 
 ### 5.이미지(Images)
 ![이미지](./블로그_해볼까.png)<br>
-이미지는 그냥 html의 <img>를 쓰자...
+[![이미지에 링크 달기](https://img.shields.io/badge/Blog-jeon1787.github.io-brightgreen)](https://jeon1787.github.io)
 
 ### 6.코드 강조
 `인라인(inline)`강조
