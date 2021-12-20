@@ -53,4 +53,33 @@ __볼드체2__
 [깃헙 블로그](https://jeon1787.github.io "링크 설명")
 
 ### 5.이미지(Images)
-![이미지](https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg){: width="10%" height="10%"}
+![이미지](./블로그_해볼까.png)<br>
+이미지는 그냥 html의 <img>를 쓰자...
+
+### 6.코드 강조
+`인라인(inline)`강조
+
+블록(block) 강조
+```java
+for(int i=0; i<5; i++){
+ System.out.println(i);
+}
+```
+
+```html
+<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
+```
+
+```css
+.list > li {
+  position: absolute;
+  top: 40px;
+}
+```
+
+```javascript
+function func() {
+  var a = 'AAA';
+  return a;
+}
+```
